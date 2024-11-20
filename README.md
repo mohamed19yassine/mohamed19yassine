@@ -23,7 +23,7 @@
         <td valign="top" width="33%">
             <h3 align="center">Frontend</h3>
             <div align="center">
-                <a href="https://angular.io/" target="_blank"><img style="margin: 15px" src="[https://cdn.iconscout.com/icon/free/png-256/angular-226066.png](https://yt3.googleusercontent.com/y4J_Fs5ksRlxx6_LzT1VKxVqH_T8Vyn_RN_YYgLJhuMzBS5qxTgm7NlEcMkQd3hgCpfWtYcEUg=s900-c-k-c0x00ffffff-no-rj)" alt="Angular" width="40" height="40" /></a>
+                <a href="https://angular.io/" target="_blank"><img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular" width="40" height="40" /></a>
                 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/typescript/#3178C6" alt="TypeScript" width="40" height="40" /></a>
                 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" width="40" height="40" /></a>
                 </br>
@@ -42,6 +42,7 @@
                 <a href="https://developer.android.com" target="_blank"><img style="margin: 15px" 
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
                 </br>
+                <a href="https://jquery.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/jquery/#0769AD" alt="jQuery" width="40" height="40" /></a>
             </div>
         </td>
         <td valign="top" width="33%">
@@ -159,4 +160,3 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed19yassine&theme=radical" alt="GitHub Streak" 
                                               width="45%" align="right" /></a>
 </p> 
-
