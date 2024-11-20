@@ -160,3 +160,4 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed19yassine&theme=radical" alt="GitHub Streak" 
                                               width="45%" align="right" /></a>
 </p> 
+<img src="https://raw.githubusercontent.com/mohamed19yassine/mohamed19yassine/output/snake.svg" alt="Snake animation" />
