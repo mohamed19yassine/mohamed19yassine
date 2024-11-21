@@ -25,12 +25,12 @@
             <div align="center">
                 <a href="https://angular.io/" target="_blank"><img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular" width="40" height="40" /></a>
                 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" /></a>
-                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" width="40" height="40" /></a>
+                <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40" height="40" /></a>
                 </br>
-                <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" width="40" height="40" /></a>
-                <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS3" width="40" height="40" /></a>
+                <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="HTML5" width="40" height="40" /></a>
+                <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5ryTY9VShCV5uJWhoBXkcxxlFB8O5bbxGA&s" alt="CSS3" width="40" height="40" /></a>
                 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 15px"
-                        src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="Bootstrap" width="40" height="40" /></a>
+                        src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40" /></a>
                 <a href="https://material.angular.io/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnDVEqEe78HvQ9g-GMREzL1xFXgDRtcVuFUJL9qCq2XCCiAdy4oBSJXFNtdp9npGNrUM&usqp=CAU" 
                                                                            alt="Angular Material" width="40" height="40" /></a>
@@ -42,7 +42,7 @@
                 <a href="https://developer.android.com" target="_blank"><img style="margin: 15px" 
                         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
                 </br>
-                <a href="https://jquery.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/jquery/#0769AD" alt="jQuery" width="40" height="40" /></a>
+                <a href="https://jquery.com/" target="_blank"><img style="margin: 15px" src="https://images.credly.com/images/a699a8c9-354e-4404-b00c-fd3ebdc4289b/jquery-badge.png" alt="jQuery" width="40" height="40" /></a>
             </div>
         </td>
         <td valign="top" width="33%">
@@ -84,8 +84,8 @@
                 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" width="40" height="40" /></a>
                 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 15px"
                         src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="Firebase" width="40" height="40" /></a>
-                <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/postman/#FF6C37" alt="Postman" width="40" height="40" /></a>
-                <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/json/#000000" alt="JSON" width="40" height="40" /></a>
+                <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqPARNK1AQ86vt-kFVrGjRrJtZUNcT3-szdg&s" alt="Postman" width="40" height="40" /></a>
+                <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:1200/1*7I28RUYwZPeJ52uZrVtMMQ.png" alt="JSON" width="40" height="40" /></a>
                 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="40" height="40" /></a>
             </div>
         </td>
@@ -94,8 +94,7 @@
             <div align="center">
                 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px"
                         src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /></a>
-                <a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/phpmyadmin/#6C78AF" alt="phpMyAdmin" width="40" height="40" /></a>
-                <a href="https://www.SQLite.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/SQLite/#003B57" alt="SQLite" width="40" height="40" /></a>
+                <a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 10px" src="https://download.logo.wine/logo/PhpMyAdmin/PhpMyAdmin-Logo.wine.png" alt="phpMyAdmin" width="40" height="40" /></a>
                 </br>
                 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 15px"
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3kSVpiWzJPf0wYuGbe65THoM8GAGYnemHAx_nTXw53gJVoUJCM8x2gzRy2sJernaCbQ&usqp=CAU" 
