@@ -24,7 +24,7 @@
             <h3 align="center">Frontend</h3>
             <div align="center">
                 <a href="https://angular.io/" target="_blank"><img style="margin: 15px" src="https://cdn.iconscout.com/icon/free/png-256/angular-226066.png" alt="Angular" width="40" height="40" /></a>
-                <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/typescript/#3178C6" alt="TypeScript" width="40" height="40" /></a>
+                <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40" /></a>
                 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/javaScript/#F7DF1E" alt="JavaScript" width="40" height="40" /></a>
                 </br>
                 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" width="40" height="40" /></a>
