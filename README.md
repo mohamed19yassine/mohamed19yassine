@@ -159,8 +159,5 @@
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed19yassine&theme=radical" alt="GitHub Streak" 
                                               width="45%" align="right" /></a>
 </p> 
- </br>
-<div align="center">
-    <img  src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="mohamed19yassine" width="45%" align="left"/>
-</div>
+
   
