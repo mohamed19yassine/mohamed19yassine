@@ -13,7 +13,7 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassine.masmoudi.777" height="30" width="40" /></a>
 </div>
 <div align="center">
-    <img alt="Coding2" style="display: block; margin: 0 auto;" align="center" width="350" height="200" src="https://res.cloudinary.com/dxt0iu7t2/image/upload/v1732585474/githubImage_lr9anx.gif" />
+    <img alt="Coding2" style="display: block; margin: 0 auto;" align="center" width="350" height="200" src="https://res.cloudinary.com/dxt0iu7t2/image/upload/v1732585679/profilmage_qvahjr.gif" />
 </div>
 
 <div align="center">
